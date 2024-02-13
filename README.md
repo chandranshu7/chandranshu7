@@ -1,6 +1,6 @@
-![image](https://github.com/chandranshu7/chandranshu7/assets/75423721/e6a16fff-a594-4d03-9764-de305ffd6a0e)<h1 align="center">Hi 👋, I'm Chandranshu Verma</h1>
-<h3 align="center">Experienced Data Management Professional with Expertise in SQL, Excel, Tableau, Python and Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif"></img>
+<h1 align="center">Hi 👋, I'm Chandranshu!</h1>
+<h3 align="center">Experienced Data Management student with Expertise in SQL, Excel, Tableau,Python and Machine Learning.</h3>
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandranshu7&label=Profile%20views&color=0e75b6&style=flat" alt="chandranshu7" /> </p>
 
 - 📫 How to reach me **chandranshuverma79@gmail.com**
